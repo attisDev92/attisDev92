@@ -22,6 +22,7 @@ Mi experiencia en diseño web me permite trabajar en proyectos orientados a sati
     - Metodología BEM
     - Diseño responsivo
     - Animaciones con librerías
+- Bootstrap
 - JavaScript
     - Agregar funcionalidad a sitios web
     - Manipulación del DOM
@@ -34,6 +35,7 @@ Mi experiencia en diseño web me permite trabajar en proyectos orientados a sati
     - Automatización de procesos.
     - Power Automate
     - Power Apps
+- MySQL
 
 ### Proyectos:
 - Frontend de aplicativos de gestión de documentos.
