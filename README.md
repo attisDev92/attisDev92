@@ -36,6 +36,7 @@ Mi experiencia en diseño web me permite trabajar en proyectos orientados a sati
     - Power Automate
     - Power Apps
 - MySQL
+- PHP
 
 ### Proyectos:
 - Frontend de aplicativos de gestión de documentos.
