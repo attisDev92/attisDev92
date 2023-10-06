@@ -24,9 +24,10 @@ Mi experiencia en diseño web me permite trabajar en proyectos orientados a sati
     - Animaciones con librerías
 - Bootstrap
 - JavaScript
-    - Agregar funcionalidad a sitios web
-    - Manipulación del DOM
+    - Sitios web dinámicos
+    - DOM
     - NodeJS
+    - Express
 - Git
     - Sistema de control de versiones
 - Github
@@ -36,7 +37,7 @@ Mi experiencia en diseño web me permite trabajar en proyectos orientados a sati
     - Power Automate
     - Power Apps
 - MySQL
-- PHP
+- Mongo DB
 
 ### Proyectos:
 - Frontend de aplicativos de gestión de documentos.
