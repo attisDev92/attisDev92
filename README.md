@@ -39,25 +39,25 @@ Mi carrera en el mundo de las aplicaciones web comenzó como diseñador multimed
 
 Aquí hay algunos proyectos en los que he trabajado:
 
-- ** Run Bike App **
+- **Run Bike App**
   - Poyecto en desarrollo para el registro de eventos deportivos.
   - Tecnologías utilizadas: React.js, Node.js, Express.js, MongoDB, GraphQL.
 
-- ** Comisión Fílmica del Ecuador**
+- **Comisión Fílmica del Ecuador**
   - Proyecto de catálogo de locaciones y servicios para rodaje de la Comisión Fílmica del Ecuador.
   - Tecnologías utilizadas: React.js, Node.js, Express.js, MongoDB, AWS EC2-S3.
  
-- ** Registro de muestras patología**
+- **Registro de muestras patología**
   - Proyecto de registro de exámenes de patología que se integra con el ecosistema de Power Plataform.
   - Tecnologías utilizadas: React.js, Node.js, Express.js, Azure.
  
-- ** Cinema EC**
+- **Cinema EC**
   - Repositorio de obras cinematográficas del cine ecuatoriano.
   - Tecnologías utilizadas: React.js, Node.js, Express.js, GraphQL.
 
 ### Contacto
 
-- **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/burnhamchristian92/)
-- **Correo Electrónico:** [Tu Email](mailto:attis.alejandro@gmail.com)
+- **LinkedIn:** [Christian Burnham](https://www.linkedin.com/in/burnhamchristian92/)
+- **Correo Electrónico:** [attis.alejandro@gmail.com](mailto:attis.alejandro@gmail.com)
 
 ¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme.
