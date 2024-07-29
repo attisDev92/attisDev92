@@ -1,57 +1,63 @@
-# AttisDev92
+# Christian Burnham
+# Attis Dev 92
 
-## Attis Christian Alejandro Burnham
-### Desarrollador frontend y productor audiovisual
+## Desarrollador Web Stack MERN
 
-### Sobre mi:
-Hola! Soy Christian Burnham, pero me llaman Attis. Soy una persona que ama la tecnología y ha incursionado hace poco en el mundo del desarrollo web.  
-Me encanta trabajar en proyectos que combinen el desarrollo web, UX, UI y la producción multimedia para crear experiencias únicas e innovadoras.
+¡Hola! Soy Christian Burnham, un desarrollador web especializado en el stack MERN (MongoDB, Express.js, React.js, Node.js). Mi pasión es crear aplicaciones web dinámicas y escalables que brinden una excelente experiencia de usuario.
 
-Soy un desarrollador frontend con experiencia en HTML, CSS, JavaScript y diseño web UX / UI. Me encanta trabajar en equipo y siempre estoy dispuesto a aprender y mejorar mis habilidades.
+### Habilidades Técnicas
 
-Mi experiencia en diseño web me permite trabajar en proyectos orientados a satisfacer las necesidades del cliente y usuario pensando en diseños atractivos, dinámicos y funcionales al mismo tiempo.
+- **Frontend:**
+  - **React.js:** Desarrollo de componentes reutilizables, gestión del estado con Redux y React Query.
+  - **JavaScript/TypeScript:** Uso avanzado de ES6+ y TypeScript para asegurar código robusto y mantenible.
+  - **HTML/CSS:** Diseño de interfaces responsivas y accesibles.
+  - **UI Libraries:** Material UI, React Bootstrap.
 
-### Tecnologías:
+- **Backend:**
+  - **Node.js:** Construcción de servidores eficientes y escalables.
+  - **Express.js:** Desarrollo de APIs RESTful.
+  - **GraphQL:** Construcción de APIs flexibles y eficientes.
+  - **MongoDB:** Diseño y gestión de bases de datos NoSQL.
 
-- HTML
-    - Maquetación
-    - Optimización de sitios web
-    - Uso de EMMET
-- CSS
-    - Estilos dinámicos y personalizados
-    - Metodología BEM
-    - Diseño responsivo
-    - Animaciones con librerías
-- Bootstrap
-- JavaScript
-    - Sitios web dinámicos
-    - DOM
-    - NodeJS
-    - Express
-- Git
-    - Sistema de control de versiones
-- Github
-    - Repositorio de versiones
-- Power Plataform
-    - Automatización de procesos.
-    - Power Automate
-    - Power Apps
-- MySQL
-- Mongo DB
+- **Testing:**
+  - **Jest, Vitest:** Pruebas unitarias.
+  - **Cypress:** Pruebas end-to-end.
 
-### Proyectos:
-- Frontend de aplicativos de gestión de documentos.
-- Forntend de aplicativo de registro de laboratorio patológico.
-- Repositorio de películas para la REA.
-- Sistema de envío de películas on-line con reproducción off-line dentro de una interfaz.
-- Diseño de website de diferentes empresas.
-- UX/IU para automatizaciones en Power Plataform
+- **Control de Versiones:**
+  - **Git:** Control de versiones y colaboración en equipos.
+
+### Experiencia
+
+Mi carrera en el mundo de las aplicaciones web comenzó como diseñador multimedia y diseñador web. Con el tiempo, decidí cambiar mi enfoque hacia el desarrollo web, donde he encontrado mi verdadera pasión.
+
+### Educación
+
+- **Producción Audiovisual y Multimedia** - Universidad Tecnológica Israel
+- **Desarrollador Web** - Fullstack Open Bootcamp, Open University, Universidad de Helsinki
+
+### Proyectos Destacados
+
+Aquí hay algunos proyectos en los que he trabajado:
+
+- ** Run Bike App **
+  - Poyecto en desarrollo para el registro de eventos deportivos.
+  - Tecnologías utilizadas: React.js, Node.js, Express.js, MongoDB, GraphQL.
+
+- ** Comisión Fílmica del Ecuador**
+  - Proyecto de catálogo de locaciones y servicios para rodaje de la Comisión Fílmica del Ecuador.
+  - Tecnologías utilizadas: React.js, Node.js, Express.js, MongoDB, AWS EC2-S3.
+ 
+- ** Registro de muestras patología**
+  - Proyecto de registro de exámenes de patología que se integra con el ecosistema de Power Plataform.
+  - Tecnologías utilizadas: React.js, Node.js, Express.js, Azure.
+ 
+- ** Cinema EC**
+  - Repositorio de obras cinematográficas del cine ecuatoriano.
+  - Tecnologías utilizadas: React.js, Node.js, Express.js, GraphQL.
 
 ### Contacto
-Siempre estoy buscando proyectos en los que colaborar o personas que quieran ayudar en mis proyectos.
 
-- e-mail: [attis.alejandro@gmail.com](mailto:attis.alejandro@gmail.com)
-- linkedIn: [Attis Christian Burnham](https://www.linkedin.com/in/christian-alejandro-burnham-masabanda-45b3b851/)
-- github: [attisDev92](https://github.com/attisDev92)
+- **LinkedIn:** [Tu LinkedIn](https://www.linkedin.com/in/burnhamchristian92/)
+- **Correo Electrónico:** [Tu Email](mailto:attis.alejandro@gmail.com)
 
-Contacta y déjame saber tus comentarios.
+¡Gracias por visitar mi perfil de GitHub! Si tienes alguna pregunta o quieres colaborar en un proyecto, no dudes en contactarme.
