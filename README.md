@@ -47,10 +47,6 @@ Aquí hay algunos proyectos en los que he trabajado:
   - Proyecto de catálogo de locaciones y servicios para rodaje de la Comisión Fílmica del Ecuador.
   - Tecnologías utilizadas: React.js, Node.js, Express.js, MongoDB, AWS EC2-S3.
  
-- **Registro de muestras patología**
-  - Proyecto de registro de exámenes de patología que se integra con el ecosistema de Power Plataform.
-  - Tecnologías utilizadas: React.js, Node.js, Express.js, Azure.
- 
 - **Cinema EC**
   - Repositorio de obras cinematográficas del cine ecuatoriano.
   - Tecnologías utilizadas: React.js, Node.js, Express.js, GraphQL.
