@@ -4,7 +4,9 @@
 ---
 
 ## 🚀 **About Me**  
-Frontend Dev 🚀 | React & React Native | Building modern apps with passion!  
+Hi there! I'm a passionate **Frontend Developer** with expertise in building modern, responsive, and user-friendly web and mobile applications. I specialize in **React**, **React Native**, and **JavaScript/TypeScript**, and I have a solid understanding of backend technologies like **Node.js**, **Express**, and databases such as **MongoDB** and **PostgreSQL**.  
+
+I’m a self-taught developer with a certification from the **Full Stack Open Bootcamp** by the University of Helsinki. I’m always eager to learn and adapt to new challenges. Let’s build something amazing together!  
 
 ---
 
