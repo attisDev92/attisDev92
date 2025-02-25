@@ -46,15 +46,15 @@ Frontend Dev 🚀 | React & React Native | Building modern apps with passion!
 
 ### **CinemaEC**  
 A repository and gallery of Ecuadorian films, with a user registration app to request screening rights.  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AttisDev92/CinemaEC)  
+[![GitHub]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/attisDev92/cinemaec))](https://github.com/AttisDev92/CinemaEC)  
 
 ### **Ecuador Film Commission**  
 A bilingual (Spanish/English) web app showcasing benefits, locations, and a directory of audiovisual production companies in Ecuador.  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AttisDev92/Ecuador-Film-Commission)  
+[![GitHub](https://github.com/attisDev92/Film_Commission_EC)](https://github.com/AttisDev92/Ecuador-Film-Commission)  
 
 ### **RunBikeApp**  
 A personal project (in development) for creating and registering sports events like running, trail running, and cycling.  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AttisDev92/RunBikeApp)  
+[![GitHub]([https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://github.com/attisDev92))](https://github.com/AttisDev92/RunBikeApp)  
 
 ---
 
