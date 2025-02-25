@@ -50,7 +50,7 @@ A repository and gallery of Ecuadorian films, with a user registration app to re
 
 ### **Ecuador Film Commission**  
 A bilingual (Spanish/English) web app showcasing benefits, locations, and a directory of audiovisual production companies in Ecuador.  
-[![GitHub](https://github.com/attisDev92/Film_Commission_EC)](https://github.com/AttisDev92/Ecuador-Film-Commission)  
+[![GitHub](https://github.com/attisDev92/Film_Commission_EC))](https://github.com/AttisDev92/Ecuador-Film-Commission)  
 
 ### **RunBikeApp**  
 A personal project (in development) for creating and registering sports events like running, trail running, and cycling.  
