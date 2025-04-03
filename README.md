@@ -1,10 +1,12 @@
 # ¡Hola! 👋 I'm Cristian Burnham Masabanda  
 ### Frontend Developer | React & React Native  
 
+💡 *“Programming is not just about writing code; it's about solving problems and bridging technology with people.”* 🚀
+![Header](https://github.com/leviarista/github-profile-header-generator/blob/main/assets/demo.png)
 ---
 
 ## 🚀 **About Me**  
-Hi there! I'm a passionate **Frontend Developer** with expertise in building modern, responsive, and user-friendly web and mobile applications. I specialize in **React**, **React Native**, and **JavaScript/TypeScript**, and I have a solid understanding of backend technologies like **Node.js**, **Express**, and databases such as **MongoDB** and **PostgreSQL**.  
+Hi there! I'm a **Frontend Developer** with expertise in building modern, responsive, and user-friendly web and mobile applications. I specialize in **React**, **React Native**, and **JavaScript/TypeScript**, and I have a solid understanding of backend technologies like **Node.js**, **Express**, and databases such as **MongoDB** and **PostgreSQL**.  
 
 I’m a self-taught developer with a certification from the **Full Stack Open Bootcamp** by the University of Helsinki. I’m always eager to learn and adapt to new challenges. Let’s build something amazing together!  
 
@@ -66,5 +68,42 @@ A personal project (in development) for creating and registering sports events l
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attis.alejandro@gmail.com)
 
 ---
+
+## 🛠️ Technologies & Tools
+
+### 🔹 Backend
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
+![TypeORM](https://img.shields.io/badge/TypeORM-FF5864?style=flat&logo=typeorm&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
+
+### 🔹 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
+![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=mui&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+
+### 🔹 DevOps & Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Cursor](https://img.shields.io/badge/Cursor-FF6F00?style=flat&logo=cursor&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+
+### 🔹 AI & Other Tools
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)  
+![Cloud Sonet](https://img.shields.io/badge/Cloud%20Sonet-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+![Uizard](https://img.shields.io/badge/Uizard-8A2BE2?style=flat&logo=uizard&logoColor=white)  
+
+## 📊 GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attisDev92&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attisDev92&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=attisDev92&label=Profile%20Views&color=blue&style=flat)](https://github.com/attisDev92)
+
 
 I love collaborating on all kinds of projects. Do you have an idea? Let’s get in touch and start coding! 🚀 
