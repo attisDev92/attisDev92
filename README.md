@@ -2,7 +2,7 @@
 ### Frontend Developer | React & React Native  
 
 
-![Header](https://github.com/attisdev92/github-header-image.png)
+![Header]([https://github.com/attisdev92/github-header-image.png](https://github.com/attisDev92/attisDev92/blob/main/github-header-image.png))
 
 ---
 
