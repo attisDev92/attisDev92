@@ -65,30 +65,11 @@ I’m a self-taught developer with a certification from the **Full Stack Open Bo
 
 ## 📊 **GitHub Stats**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attisDev92&layout=compact&theme=radical)  
-
----
-
-# 💫 About Me:
-Hi there! I'm a Frontend Developer with expertise in building modern, responsive, and user-friendly web and mobile applications. I specialize in React, React Native, and JavaScript/TypeScript, and I have a solid understanding of backend technologies like Node.js, Express, and databases such as MongoDB and PostgreSQL.<br><br>I’m a self-taught developer with a certification from the Full Stack Open Bootcamp by the University of Helsinki. I’m always eager to learn and adapt to new challenges. Let’s build something amazing together!
-
-
-# 💻 Tech Stack:
-            
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=attisdev92&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=attisdev92&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=attisdev92&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=attisdev92&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=attisdev92&icon=2&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📚 **Certifications**  
 - **Full Stack Open Bootcamp** - University of Helsinki  
