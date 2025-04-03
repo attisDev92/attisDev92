@@ -2,7 +2,7 @@
 ### Frontend Developer | React & React Native  
 
 
-![Header](https://github.com/khalby786/REHeader/blob/main/header.png)
+![Header](https://github.com/attisdev92/github-header-image.png)
 
 ---
 
