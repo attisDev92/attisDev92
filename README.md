@@ -30,6 +30,7 @@ I’m a self-taught developer with a certification from the **Full Stack Open Bo
 
 ### **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,6 +39,27 @@ I’m a self-taught developer with a certification from the **Full Stack Open Bo
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![ViteTest](https://img.shields.io/badge/Vitest-6E4A7E?style=for-the-badge&logo=vitest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
+### **DevOps & Tools**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
+![Cursor](https://img.shields.io/badge/Cursor-FF6F00?style=flat&logo=cursor&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+
+###  **AI & Other Tools**
+![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)  
+![Cloud Sonet](https://img.shields.io/badge/Cloud%20Sonet-4285F4?style=flat&logo=google-cloud&logoColor=white)  
+![Uizard](https://img.shields.io/badge/Uizard-8A2BE2?style=flat&logo=uizard&logoColor=white)  
+
+## **GitHub Stats**
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attisDev92&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attisDev92&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=attisDev92&label=Profile%20Views&color=blue&style=flat)](https://github.com/attisDev92)
 
 ---
 
@@ -62,48 +84,11 @@ A personal project (in development) for creating and registering sports events l
 
 ---
 
+I love collaborating on all kinds of projects. Do you have an idea? Let’s get in touch and start coding! 🚀 
+
 ## 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/burnhamchristian92/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AttisDev92)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attis.alejandro@gmail.com)
 
 ---
-
-## 🛠️ Technologies & Tools
-
-### 🔹 Backend
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)  
-![TypeORM](https://img.shields.io/badge/TypeORM-FF5864?style=flat&logo=typeorm&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
-
-### 🔹 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)  
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)  
-![Material UI](https://img.shields.io/badge/Material%20UI-0081CB?style=flat&logo=mui&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
-
-### 🔹 DevOps & Tools
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
-![Cursor](https://img.shields.io/badge/Cursor-FF6F00?style=flat&logo=cursor&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)  
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
-
-### 🔹 AI & Other Tools
-![GPT](https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white)  
-![Cloud Sonet](https://img.shields.io/badge/Cloud%20Sonet-4285F4?style=flat&logo=google-cloud&logoColor=white)  
-![Uizard](https://img.shields.io/badge/Uizard-8A2BE2?style=flat&logo=uizard&logoColor=white)  
-
-## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attisDev92&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attisDev92&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=attisDev92&label=Profile%20Views&color=blue&style=flat)](https://github.com/attisDev92)
-
-
-I love collaborating on all kinds of projects. Do you have an idea? Let’s get in touch and start coding! 🚀 
