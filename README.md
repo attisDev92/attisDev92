@@ -57,7 +57,6 @@ I’m a self-taught developer with a certification from the **Full Stack Open Bo
 ![Uizard](https://img.shields.io/badge/Uizard-8A2BE2?style=for-the-badge&logo=uizard&logoColor=white)
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=attisDev92&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attisDev92&layout=compact&theme=radical)  
 
 ---
