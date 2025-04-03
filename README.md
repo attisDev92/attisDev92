@@ -64,8 +64,6 @@ I’m a self-taught developer with a certification from the **Full Stack Open Bo
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 📊 **GitHub Stats**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=attisDev92&layout=compact&theme=radical)  
-![](https://github-readme-stats.vercel.app/api?username=attisdev92&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=attisdev92&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=attisdev92&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
